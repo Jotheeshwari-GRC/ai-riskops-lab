@@ -1,0 +1,1 @@
+Finding: Server lab-web-01 has an internet-accessible admin page on port 8080.

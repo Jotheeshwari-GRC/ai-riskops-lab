@@ -218,3 +218,43 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Python environment and temporary files
+.venv/
+__pycache__/
+*.pyc
+
+# Credentials and private keys
+.env
+.env.*
+*.pem
+*.key
+.aws/
+.config/gh/
+
+# Generated plans, evidence and backups
+plans/
+*.before.json
+*.save
+/findings/cloud-findings.t*.save
+/findings/cloud-findings.t
+
+# Python environment and temporary files
+.venv/
+__pycache__/
+*.pyc
+
+# Credentials and private keys
+.env
+.env.*
+*.pem
+*.key
+.aws/
+.config/gh/
+
+# Generated plans, evidence and backups
+plans/
+*.before.json
+*.save
+/findings/cloud-findings.t*.save
+/findings/cloud-findings.t
+
